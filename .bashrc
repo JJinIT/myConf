@@ -102,6 +102,7 @@ export CXX='/usr/bin/clang++-3.8'
 
 alias cds='cd /root/work/trunk/src'
 alias cdss='cd /root/work/trunk/src/lib/multimedia/sound_server'
+alias mi='make install -j9'
 
 TERM=xterm-256color
 
